@@ -1,0 +1,31 @@
+PhoneDetect
+Ubiquitous Computing - Lab 3
+
+Git Development History
+
+Commit 1
+Initial Android Studio project setup.
+
+Commit 2
+Created MainActivity user interface.
+
+Commit 3
+Implemented MotionDetectionService.
+
+Commit 4
+Added accelerometer monitoring.
+
+Commit 5
+Implemented notifications.
+
+Commit 6
+Created MotionDetailsActivity.
+
+Commit 7
+Updated AndroidManifest.xml.
+
+Commit 8
+Testing and bug fixes.
+
+Commit 9
+Added project documentation.
